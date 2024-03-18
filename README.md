@@ -1,16 +1,6 @@
-# myapp1
+# Flashcard Quiz Game for Mobile App Development Class Project 1
 
-A new Flutter project.
+Target audience - students in middle school to university
 
-## Getting Started
+Scope: Flashcard Quiz Game - We designed a flashcard app for studying or learning new information in the categories of Science, Math and History. Users can create their own flashcards with questions and answers on various topics. They can test themselves by creating the flashcard questions, and then checking if their memorized/learned answer is correct by revealing the saved answer.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
