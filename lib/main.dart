@@ -207,7 +207,7 @@ class _PresentationScreenState extends State<PresentationScreen> {
             onPressed: () {
               setState(() {
                 currentIndex = (currentIndex + 1) % widget.flashcards.length;
-                showAnswer = false;
+                showAnswer = false; // Reset to question when moving to next card
               });
             },
             child: Text('Next'),
@@ -225,3 +225,4 @@ class _PresentationScreenState extends State<PresentationScreen> {
     );
   }
 }
+
