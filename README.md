@@ -10,3 +10,5 @@ Instructions to run this project:
 -Ensure you have all the dependencies by running flutter pub get
 -Run the project using flutter run
 
+Link to presentation: https://docs.google.com/presentation/d/1r2U_a1HxN3JuHa-TRE7mcTMiA7TekX4laIGpcP_-jMY/edit?usp=sharing
+
