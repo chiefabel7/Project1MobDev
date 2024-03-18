@@ -9,6 +9,7 @@ Instructions to run this project:
 -Open your flutter environment
 -Ensure you have all the dependencies by running flutter pub get
 -Run the project using flutter run
+- OR download the APK and test the APK on an android environment
 
 Link to presentation: https://docs.google.com/presentation/d/1r2U_a1HxN3JuHa-TRE7mcTMiA7TekX4laIGpcP_-jMY/edit?usp=sharing
 
